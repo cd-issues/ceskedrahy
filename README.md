@@ -1,9 +1,10 @@
-# CD Issues
+# CD Issues - České dráhy
 
 **English disclaimer below**
 
-CD Issues je zkratka pro Community Driven Issues. Projekt si klade zacíl shromažďovat náměty a objevené technické nedostatky organizací pracujících ve veřejném zájmu.
-V této fázi se CD Issues zaměřuje na národního dopravce České dráhy, aby ulehčil práci jeho pracovníkům a dodavatelům, kteří náměty veřejnosti musí zpracovávat z e-mailů.
+CD Issues je zkratka pro Community Driven Issues. Projekt si klade zacíl využít komunitu uživatelů veřejných služeb ke shromažďování námětů a objevených technických nedostatků organizací pracujících ve veřejném zájmu.
+
+Tento konkrétní projekt CD Issues zaměřuje na národního dopravce České dráhy, aby ulehčil práci jeho pracovníkům a dodavatelům, kteří náměty veřejnosti musí zpracovávat z e-mailů.
 
 Tím pádem dochází k nadměrné zátěži zejména v případě nízkoprioritních požadavků, jelikož jsou podněty zákazníků vázány lhůtami na odpovědi, a pracovníci jsou tak povinnni si vyjádřit ke každému z nich. Proto tu jsou CD Issues, kde stačí námět rozumně formulovat a zaevidovat. Tím by mělo v optimálním případě dojít ke snížení zátěže na straně Českých drah, a případně k diskusi nad tématem v rámci komunity uživatelů.
 
