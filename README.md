@@ -12,6 +12,7 @@ Tím pádem dochází k nadměrné zátěži zejména v případě nízkopriorit
 - **[Všechny otevřené připomínky](https://github.com/cd-issues/ceskedrahy/issues)**
 - **[Připomínky k „Tarifnímu backendu“](https://github.com/cd-issues/ceskedrahy/projects/1)** - seřazené podle odhadované priority
 - **[Připomínky k aplikaci Můj Vlak](https://github.com/cd-issues/ceskedrahy/projects/2)** - seřazené podle odhadované priority
+- **[Obecné připomínky k e-shopu](https://github.com/cd-issues/ceskedrahy/projects/3)**
 
 ## Pravidla a ustanovení
 - Při reportování bugů apod prosím mějte na paměti, že seznam je veřejný. Neuvádějte proto prosím citlivá data jako jsou osobní údaje apod..
